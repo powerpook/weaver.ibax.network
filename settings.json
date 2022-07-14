@@ -2,7 +2,7 @@
   "defaultLocale": "en-US",
   "defaultNetwork": "TESTNET_NETWORK",
   "networks": [
-    /* {
+    {
       "key": "TESTNET_NETWORK",
       "name": "TESTNET SG-1 Network",
       "networkID": 1,
@@ -37,6 +37,6 @@
       "activationEmail": "",
       "enableDemoMode": true,
       "disableSync": false
-    } */
+    }
   ]
 }
